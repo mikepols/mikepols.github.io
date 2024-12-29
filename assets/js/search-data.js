@@ -52,8 +52,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-new-paper-introducing-structural-descriptors-for-chiral-halide-perovskites-was-accepted-in-j-phys-chem-lett",
-          title: 'A new paper introducing structural descriptors for chiral halide perovskites was accepted in...',
+    },{id: "news-a-paper-introducing-chiral-structural-descriptors-for-2d-perovskites-was-accepted-in-j-phys-chem-lett",
+          title: 'A paper introducing chiral structural descriptors for 2D perovskites was accepted in J....',
           description: "",
           section: "News",},{id: "news-a-new-preprint-covering-chiral-phonons-in-halide-perovskites-was-published-on-arxiv",
           title: 'A new preprint covering chiral phonons in halide perovskites was published on arXiv!...',
