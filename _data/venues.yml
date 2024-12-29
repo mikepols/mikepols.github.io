@@ -1,9 +1,47 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ACS Appl. Mater. Interf.":
+  url: https://pubs.acs.org/journal/aamick
+  color: "#0054a6"
 
-"Vision":
-  color: "#009f36"
+"ACS Energy Lett.":
+  url: https://pubs.acs.org/journal/aelccp
+  color: "#0054a6"
+
+"J. Phys. Chem. Lett.":
+  url: https://pubs.acs.org/journal/jpclcd
+  color: "#0054a6"
+
+"J. Phys. Chem. C":
+  url: https://pubs.acs.org/journal/jpccck
+  color: "#0054a6"
+
+"Nano Lett.":
+  url: https://pubs.acs.org/journal/nalefd
+  color: "#0054a6"
+
+"Chem. Commun.":
+  url: https://pubs.rsc.org/en/journals/journal/CC
+  color: "#97d900"
+
+"Adv. Mater.":
+  url: https://onlinelibrary-wiley-com.dianus.libr.tue.nl/journal/15214095
+  color: "#115c36"
+
+"Adv. Funct. Mater.":
+  url: https://onlinelibrary-wiley-com.dianus.libr.tue.nl/journal/16163028
+  color: "#115c36"
+
+"Solar RRL":
+  url: https://onlinelibrary-wiley-com.dianus.libr.tue.nl/journal/2367198x
+  color: "#115c36"
+
+"Joule":
+  url: https://www.cell.com/joule/home
+  color: "#0098d1"
+
+"Matter":
+  url: https://www.cell.com/matter/home
+  color: "#0098d1"

@@ -2,24 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student @ <a href='https://www.tue.nl/en/'>TU/e</a> | Computational Materials Science
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_picture.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Email: m.c.w.m.pols[at]tue.nl</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interests encompass Materials Science, High-Performance Computing, and Machine-Learning, which I apply to investigate the dynamic behavior of complex material systems. During my PhD, I specialized in developing interatomic potentials to explore the ion, phase, and lattice dynamics of halide perovskites. The studied topics range from ion migration and material degradation to structural and dynamic (read: phonon) chirality, this work was carried out in the [Materials Simulation & Modeling \(MSM\)](https://www.tue.nl/en/research/research-groups/materials-simulation-modelling) group under supervision of [Shuxia Tao](https://www.tue.nl/en/research/researchers/shuxia-tao) and [Sofía Calero](https://www.tue.nl/en/research/researchers/sofia-calero).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My academic background spans both Physics and Chemistry, with a double degree at the BSc and MSc levels from [Eindhoven University of Technology \(TU/e\)](https://www.tue.nl/en/), during which I focused on Computational Materials Science. Throughout my studies, I held various research and academic roles, including Research Assistant positions in the [Materials Simulation & Modeling \(MSM\)](https://www.tue.nl/en/research/research-groups/materials-simulation-modelling) group and the [Molecular Materials & Nanosystems \(M2N\)](https://www.m2ngroup.nl/) group, investigating topics such as halide perovskites and OLEDs. Additionally, I worked as a Scientific Software Developer at [Software for Chemistry & Materials \(SCM\)](https://www.scm.com/) and served as a Teaching Assistant, gaining diverse experience in both research and education.
