@@ -64,34 +64,57 @@
       description:
         - Experimental investigation of triplet-triplet annihilation in phosphorescent host-guest systems for OLEDs by quantifying triplet confinement
 
+- title: Services
+  type: nested_list
+  contents:
+    - title: 'Conferences'
+    items:
+      - 'NWO Physics 2025: Poster Prize Selection Committee'
+
+    - title: 'Peer Reviewing'
+    items:
+      - 'Journal of Chemical Physics'
+      - 'Journal of Physical Chemistry C'
+      - 'Physical Chemistry Chemical Physics'
+
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2024
       items:
         - Participant of 73rd Lindau Meeting
+        
     - year: 2023
       items:
         - HPC SYSTEMs Inc. Poster Award at APATCC-10
+
     - year: 2021
       items:
         - Best Poster Prize at ACOS 2021
         - Nominated as Best Student Assistant of Applied Physics at TU/e
+
     - year: 2020
       items:
         - Participant of 70th Lindau Meeting (Online)
+
     - year: 2018
       items:
         - ALSP Scholarship at TU/e (top 1% of cohort)
+
     - year: 2014
       items:
         - Bronze Medal (128th out of 291) at 46th International Chemistry Olympiad
         - Gold Medal (4th out of 4090) at Dutch National Chemistry Olympiad 2014
 
 - title: References
-  type: list
+  type: nested_list
   contents:
-    - '<b><a href="https://www.tue.nl/en/research/researchers/shuxia-tao">Shuxia Tao</a>:</b> (daily) academic advisor in simulations of halide perovskites'
-    - '<b><a href="https://www.tue.nl/en/research/researchers/sofia-calero">Sofía Calero</a>:</b> academic advisor in molecular simulations'
-    - '<b><a href="https://www.utwente.nl/en/tnw/ccp/people/academic-staff/Geert-Brocks.html">Geert Brocks</a>:</b> frequent collaborator in materials chemistry'
-    - '<b><a href="https://www.engr.psu.edu/adri/">Adri C.T. van Duin</a>:</b> frequent collaborator for reactive force fields (ReaxFF)'
+    - title: Advisors
+      items:
+        - '<b><a href="https://www.tue.nl/en/research/researchers/shuxia-tao">Shuxia Tao</a>:</b> (daily) academic advisor in simulations of halide perovskites'
+        - '<b><a href="https://www.tue.nl/en/research/researchers/sofia-calero">Sofía Calero</a>:</b> academic advisor in molecular simulations'
+    
+    - title: Collaborations
+      items:
+        - '<b><a href="https://www.utwente.nl/en/tnw/ccp/people/academic-staff/Geert-Brocks.html">Geert Brocks</a>:</b> frequent collaborator in materials chemistry'
+        - '<b><a href="https://www.engr.psu.edu/adri/">Adri C.T. van Duin</a>:</b> frequent collaborator for reactive force fields (ReaxFF)'
