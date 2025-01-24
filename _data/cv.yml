@@ -68,14 +68,14 @@
   type: nested_list
   contents:
     - title: 'Conferences'
-    items:
-      - 'NWO Physics 2025: Poster Prize Selection Committee'
+      items:
+        - 'NWO Physics 2025: Poster Prize Selection Committee'
 
     - title: 'Peer Reviewing'
-    items:
-      - 'Journal of Chemical Physics'
-      - 'Journal of Physical Chemistry C'
-      - 'Physical Chemistry Chemical Physics'
+      items:
+        - 'Journal of Chemical Physics'
+        - 'Journal of Physical Chemistry C'
+        - 'Physical Chemistry Chemical Physics'
 
 - title: Honors and Awards
   type: time_table
