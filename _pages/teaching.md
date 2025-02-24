@@ -21,7 +21,7 @@ nav_order: 3
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">2021-2023: Teaching Assistant</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">2021-2024: Teaching Assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Master-level introduction to materials modeling</li>
       <li class="list-group-item">- Design of the course materials, including programming exercises and introductory density functional theory simulations</li>
