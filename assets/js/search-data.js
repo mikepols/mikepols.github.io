@@ -58,6 +58,9 @@ ninja.data = [{
           section: "News",},{id: "news-a-new-preprint-covering-chiral-phonons-in-halide-perovskites-was-published-on-arxiv",
           title: 'A new preprint covering chiral phonons in halide perovskites was published on arXiv!...',
           description: "",
+          section: "News",},{id: "news-today-i-successfully-defended-my-phd-cum-laude-a-news-article-about-the-research-done-during-these-four-years-from-cursor-can-be-found-here",
+          title: 'Today I successfully defended my PhD cum laude! (🎓) A news article about...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
