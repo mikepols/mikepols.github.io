@@ -10,6 +10,10 @@
   url: https://pubs.acs.org/journal/aelccp
   color: "#0054a6"
 
+"ACS Nano":
+  url: https://pubs.acs.org/journal/ancac3
+  color: "#0054a6"
+
 "J. Phys. Chem. Lett.":
   url: https://pubs.acs.org/journal/jpclcd
   color: "#0054a6"

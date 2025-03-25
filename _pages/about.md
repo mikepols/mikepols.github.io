@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student @ <a href='https://www.tue.nl/en/'>TU/e</a> | Computational Materials Science
+subtitle: Postdoctoral Researcher @ <a href='https://www.tue.nl/en/'>TU/e</a> | Computational Materials Science
 
 profile:
   align: right

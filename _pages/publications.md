@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: publications by catergories in reversed chronological order; an up-to-date list is available on <a href='https://scholar.google.com/citations?user=bFUbyosAAAAJ'>Google Scholar</a>
 preprints_years: [2024]
-articles_years: [2024, 2023, 2022, 2021, 2020, 2018]
+articles_years: [2025, 2024, 2023, 2022, 2021, 2020, 2018]
 nav: true
 nav_order: 1
 ---
