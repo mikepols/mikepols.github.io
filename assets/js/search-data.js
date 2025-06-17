@@ -61,6 +61,12 @@ ninja.data = [{
           section: "News",},{id: "news-today-i-successfully-defended-my-phd-cum-laude-a-news-article-about-the-research-done-during-these-four-years-can-be-found-here",
           title: 'Today I successfully defended my PhD cum laude! (🎓) A news article about...',
           description: "",
+          section: "News",},{id: "news-as-of-today-i-officially-started-as-a-postdoctoral-researcher-working-on-nonlinear-phononics-in-the-lab-of-dominik-juraschek",
+          title: 'As of today I officially started as a Postdoctoral Researcher working on nonlinear...',
+          description: "",
+          section: "News",},{id: "news-our-work-on-chiral-phonons-in-2d-halide-perovskites-was-accepted-in-nano-lett",
+          title: 'Our work on chiral phonons in 2D halide perovskites was accepted in Nano...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
