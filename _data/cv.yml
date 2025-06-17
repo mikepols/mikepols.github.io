@@ -15,9 +15,16 @@
   contents:
     - 'Computational materials science focused at the dynamic behavior of complex materials, such as ion migration and lattice vibrations, through a collection of reactive and machine-learning force fields with accuracies approaching quantum mechanical calculations.' 
 
-- title: Education
+- title: Academic Career
   type: plain_time_table
   contents:
+    - title: Postdoctoral Researcher in Applied Physics
+      institution: Eindhoven University of Technology (TU/e), Eindhoven, Netherlands
+      year: 2025
+      description:
+        - '<u>Topic:</u> Nonlinear phononics with machine-learning force fields'
+        - '<u>Advisor:</u> <a href="https://www.jurascheklab.com/">Dominik Juraschek</a>'
+  
     - title: PhD in Applied Physics
       institution: Eindhoven University of Technology (TU/e), Eindhoven, Netherlands
       year: 2021-2025
@@ -44,7 +51,7 @@
         - '<u>Thesis:</u> <a href="https://research.tue.nl/en/studentTheses/triplet-triplet-annihilation-in-organic-light-emitting-diodes">Triplet‑triplet annihilation of phosphorescent host‑guest materials for OLEDs</a> (9.5/10)'
         - 'Followed as part of a <b>double degree</b>'
 
-- title: Experience
+- title: Work Experience
   type: plain_time_table
   contents:
     - title: Software Developer
@@ -112,8 +119,9 @@
   contents:
     - title: Advisors
       items:
-        - '<b><a href="https://www.tue.nl/en/research/researchers/shuxia-tao">Shuxia Tao</a>:</b> (daily) academic advisor in simulations of halide perovskites'
-        - '<b><a href="https://www.tue.nl/en/research/researchers/sofia-calero">Sofía Calero</a>:</b> academic advisor in molecular simulations'
+        - '<b><a href="https://www.jurascheklab.com/">Dominik Juraschek</a>:</b> academic advisor for nonlinear phononics during 1st PD'
+        - '<b><a href="https://www.tue.nl/en/research/researchers/shuxia-tao">Shuxia Tao</a>:</b> (daily) academic advisor in simulations of halide perovskites during PhD'
+        - '<b><a href="https://www.tue.nl/en/research/researchers/sofia-calero">Sofía Calero</a>:</b> academic advisor in molecular simulations during PhD'
     
     - title: Collaborations
       items:
