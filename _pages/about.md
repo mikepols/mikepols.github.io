@@ -2,22 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher @ <a href='https://www.tue.nl/en/'>TU/e</a> | Computational Materials Science
+subtitle: Postdoctoral Researcher @ <a href='https://ethz.ch/en.html'>ETH Zürich</a> | Computational Materials Science
 
 profile:
   align: right
   image: profile_picture.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: m.c.w.m.pols[at]tue.nl</p>
+    <p>Email: mike.pols[at]mat.ethz.ch</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-My research interests encompass Materials Science, High-Performance Computing, and Machine-Learning, which I apply to investigate the dynamic behavior of complex material systems. I am currently investigating nonlinear phononics, focusing on the anharmonic coupling of vibrational modes and their role in driving phase transitions, emergent functionalities, and non-equilibrium phenomena in materials, under supervision of [Dominik Juraschek](https://www.jurascheklab.com/).
+My research lies at the intersection of Materials Science, High-Performance Computing, and Machine Learning, with a focus on the dynamical behavior of complex material systems. At [ETH Zürich](https://ethz.ch/en.html), I study phonons in quantum paraelectric materials under the supervision of [Nicola Spaldin](https://theory.mat.ethz.ch/people/person-detail.MTc3MjY0.TGlzdC8yNDIzLDExMDc5MzA0OTc=.html).
 
-During my PhD, I specialized in developing interatomic potentials to explore the ion, phase, and lattice dynamics of halide perovskites. The studied topics range from ion migration and material degradation to structural and dynamic (read: phonon) chirality, this work was carried out in the under supervision of [Shuxia Tao](https://www.tue.nl/en/research/researchers/shuxia-tao) and [Sofía Calero](https://www.tue.nl/en/research/researchers/sofia-calero).
+Previously, I developed interatomic potentials to investigate ion and lattice dynamics in various perovskites at [Eindhoven University of Technology \(TU/e\)](https://www.tue.nl/en/). My work addressed anharmonic coupling during a short postdoc with [Dominik Juraschek](https://www.jurascheklab.com/) and ion migration, material degradation, and structural/dynamic chirality during my PhD, co-supervised by [Shuxia Tao](https://www.tue.nl/en/research/researchers/shuxia-tao) and [Sofía Calero](https://www.tue.nl/en/research/researchers/sofia-calero).
 
-My academic background spans both Physics and Chemistry, with a double degree at the BSc and MSc levels from [Eindhoven University of Technology \(TU/e\)](https://www.tue.nl/en/), during which I focused on Computational Materials Science. Throughout my studies, I held various research and academic roles, including Research Assistant positions in the [Materials Simulation & Modeling \(MSM\)](https://www.tue.nl/en/research/research-groups/materials-simulation-modelling) group and the [Molecular Materials & Nanosystems \(M2N\)](https://www.m2ngroup.nl/) group, investigating topics such as halide perovskites and OLEDs. Additionally, I worked as a Scientific Software Developer at [Software for Chemistry & Materials \(SCM\)](https://www.scm.com/) and served as a Teaching Assistant, gaining diverse experience in both research and education.
+I hold a double degree in Physics and Chemistry (BSc and MSc) from TU/e, specializing in Computational Materials Science. My academic background includes research and teaching roles, as well as experience as a Scientific Software Developer at [Software for Chemistry & Materials \(SCM\)](https://www.scm.com/).
