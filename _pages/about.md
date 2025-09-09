@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher @ <a href='https://ethz.ch/en.html'>ETH Züric
 
 profile:
   align: right
-  image: profile_picture.png
+  image: profile_picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: mike.pols[at]mat.ethz.ch</p>
