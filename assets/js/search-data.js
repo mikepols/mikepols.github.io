@@ -67,6 +67,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-on-chiral-phonons-in-2d-halide-perovskites-was-accepted-in-nano-lett",
           title: 'Our work on chiral phonons in 2D halide perovskites was accepted in Nano...',
           description: "",
+          section: "News",},{id: "news-a-new-preprint-in-which-we-study-the-effect-of-different-metal-cations-on-the-chirality-of-2d-halide-perovskites-was-published-on-arxiv",
+          title: 'A new preprint in which we study the effect of different metal cations...',
+          description: "",
+          section: "News",},{id: "news-as-of-today-i-moved-to-switzerland-here-i-ll-start-working-as-a-postdoctoral-research-at-eth-in-zürich-in-the-materials-theory-group-of-nicola-spaldin",
+          title: 'As of today I moved to Switzerland! (🇨🇭) Here I’ll start working as...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
