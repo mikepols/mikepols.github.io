@@ -73,6 +73,9 @@ ninja.data = [{
           section: "News",},{id: "news-as-of-today-i-moved-to-switzerland-here-i-ll-start-working-as-a-postdoctoral-research-at-eth-in-zürich-in-the-materials-theory-group-of-nicola-spaldin",
           title: 'As of today I moved to Switzerland! (🇨🇭) Here I’ll start working as...',
           description: "",
+          section: "News",},{id: "news-exciting-excitations-in-a-new-preprint-we-identify-multiferrons-as-a-new-type-of-quasiparticle-that-simultaneously-induces-polarization-and-magnetization-read-more-about-it-on-arxiv",
+          title: 'Exciting excitations! ⚡ In a new preprint we identify multiferrons as a new...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
