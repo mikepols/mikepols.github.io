@@ -7,6 +7,29 @@ nav: true
 nav_order: 3
 ---
 
+<h3 class="mt-4">ETH Zürich</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Capstone Project</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold text-uppercase align-middle">
+            327‑0311‑00L
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">2025: Teaching Assistant</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">Bachelor-level project based course</li>
+      <li class="list-group-item">- Supervision of students during a materials modeling project using molecular dynamics simulations</li>
+      <li class="list-group-item">- Grading and judging of student presentations and reports</li>    
+    </ul>
+  </div>
+</div>
+
 <h3 class="mt-4">Eindhoven University of Technology (TU/e)</h3>
 
 <div class="card mt-3">
