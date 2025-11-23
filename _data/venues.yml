@@ -49,3 +49,7 @@
 "Matter":
   url: https://www.cell.com/matter/home
   color: "#0098d1"
+
+"Phys. Rev. Mater.":
+  url: https://journals.aps.org/prmaterials/
+  color: "#ffa500"
