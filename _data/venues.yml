@@ -53,3 +53,7 @@
 "Phys. Rev. Mater.":
   url: https://journals.aps.org/prmaterials/
   color: "#ffa500"
+
+"Phys. Rev. Lett.":
+  url: https://journals.aps.org/prl/
+  color: "#ffa500"

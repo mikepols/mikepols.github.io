@@ -20,10 +20,11 @@
   contents:
     - title: Postdoctoral Researcher in Materials Theory
       institution: ETH, Zürich, Switzerland
-      year: 2025
+      year: 2025-Now
       description:
         - '<u>Topic:</u> Chiral phonons in quantum paraelectrics'
         - '<u>Advisor:</u> <a href="https://theory.mat.ethz.ch/people/person-detail.MTc3MjY0.TGlzdC8yNDIzLDExMDc5MzA0OTc=.html">Nicola Spaldin</a>'
+        - 'Awarded an <b>NWO Rubicon Fellowship</b>'
 
     - title: Postdoctoral Researcher in Applied Physics
       institution: Eindhoven University of Technology (TU/e), Eindhoven, Netherlands
@@ -95,6 +96,11 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - PhD thesis award KNCV-CTC
+        - NWO Rubicon Fellowship
+        
     - year: 2024
       items:
         - Participant of 73rd Lindau Meeting
@@ -126,8 +132,9 @@
   contents:
     - title: Advisors
       items:
+        - '<b><a href="https://theory.mat.ethz.ch/">Nicola A. Spaldin</a>:</b> academic advisor on chiral phonons during 2nd PD'
         - '<b><a href="https://www.jurascheklab.com/">Dominik Juraschek</a>:</b> academic advisor for nonlinear phononics during 1st PD'
-        - '<b><a href="https://www.tue.nl/en/research/researchers/shuxia-tao">Shuxia Tao</a>:</b> (daily) academic advisor in simulations of halide perovskites during PhD'
+        - '<b><a href="https://www.tue.nl/en/research/researchers/shuxia-tao">Shuxia Tao</a>:</b> academic advisor in simulations of halide perovskites during PhD'
         - '<b><a href="https://www.tue.nl/en/research/researchers/sofia-calero">Sofía Calero</a>:</b> academic advisor in molecular simulations during PhD'
     
     - title: Collaborations
