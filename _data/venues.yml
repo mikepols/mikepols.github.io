@@ -14,6 +14,10 @@
   url: https://pubs.acs.org/journal/ancac3
   color: "#0054a6"
 
+"Chem. Mater.":
+  url: https://pubs.acs.org/journal/cmatex
+  color: "#0054a6"
+
 "J. Phys. Chem. Lett.":
   url: https://pubs.acs.org/journal/jpclcd
   color: "#0054a6"
@@ -57,3 +61,7 @@
 "Phys. Rev. Lett.":
   url: https://journals.aps.org/prl/
   color: "#ffa500"
+
+"Nature":
+  url: https://www.nature.com/
+  color: "#800080"  
