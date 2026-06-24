@@ -66,6 +66,12 @@ ninja.data = [{
           section: "News",},{id: "news-today-i-received-the-great-news-that-my-proposal-titled-materials-in-motion-spin-and-lattice-dynamics-in-quantum-paraelectric-materials-for-an-nwo-rubicon-fellowship-got-granted-for-my-stay-at-eth-zürich",
           title: 'Today I received the great news that my proposal titled ‘Materials in motion:...',
           description: "",
+          section: "News",},{id: "news-in-a-new-preprint-we-demonstrate-that-the-surface-of-all-crystalline-materials-can-host-chiral-phonons-if-you-are-interested-you-can-read-more-about-it-on-arxiv",
+          title: 'In a new preprint we demonstrate that the surface of all crystalline materials...',
+          description: "",
+          section: "News",},{id: "news-today-a-collaboration-on-blue-perovskite-leds-got-accepted-for-publication-the-work-focuses-on-perovskite-based-leds-with-a-high-efficiency-and-you-can-read-more-about-it-in-nature",
+          title: 'Today a collaboration on blue perovskite LEDs (🔵💡) got accepted for publication. The...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
